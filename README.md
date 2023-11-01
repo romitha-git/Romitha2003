@@ -10,10 +10,10 @@ thinking)
 ---
 ## Problem definition and design thinking
 The phase1 describes the problem definition and the design thinking methods
-- Phase 1 - [AI_Phase1](https://github.com/AmalDeepthi/python_lover/blob/main/AI_Phase1.docx)
-## Innovation
+- Phase 1 - [AI_Phase1](https://github.com/romitha-git/Romitha2003/blob/main/AI_Phase1%20(1).docx)
+## Innovation                         
 The phase2 explores innovative techniques and aims at improving the prediction system's accuracy,robustness.
-- Phase 2 - [AI_Phase2](https://github.com/AmalDeepthi/python_lover/blob/main/AI_Phase2.pdf)
+- Phase 2 - [AI_Phase2]()
 ## Development part 1
 In this phase loading and preprocessing of dataset is done.The required
 libraries such as flask is installed.
