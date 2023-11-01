@@ -20,4 +20,4 @@ libraries such as flask is installed.
 - Phase 3 - [AI_Phase3](https://github.com/romitha-git/Romitha2003/blob/main/AI_Phase3.ipynb)
 ## Development part 2
 In this phase the chatbot is integrated into web app using flask app.
-- Phase 4 - [AI_Phase4](https://github.com/AmalDeepthi/python_lover/blob/main/AI_Phase4.pdf)
+- Phase 4 - [AI_Phase4](https://github.com/romitha-git/Romitha2003/blob/main/AI_Phase4.pdf)
